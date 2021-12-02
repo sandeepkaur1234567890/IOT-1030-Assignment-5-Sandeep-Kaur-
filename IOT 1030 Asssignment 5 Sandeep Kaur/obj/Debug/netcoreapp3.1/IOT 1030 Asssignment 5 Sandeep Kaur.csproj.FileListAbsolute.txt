@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.exe
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.deps.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.runtimeconfig.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.runtimeconfig.dev.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\bin\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-Assignment-5-Sandeep-Kaur-\IOT 1030 Asssignment 5 Sandeep Kaur\obj\Debug\netcoreapp3.1\IOT 1030 Asssignment 5 Sandeep Kaur.genruntimeconfig.cache
